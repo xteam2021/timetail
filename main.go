@@ -1,4 +1,4 @@
-package timetail
+package main
 
 import (
 	"bufio"
